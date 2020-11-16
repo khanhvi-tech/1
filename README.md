@@ -11,7 +11,7 @@
             width: 1300px;
             background-position: center;
             background-repeat: no-repeat;
-            background-size: cover;
+            background-size: 1500px;
             margin: none;
             display: flex;
             align-items: center;
