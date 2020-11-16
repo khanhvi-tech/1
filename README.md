@@ -12,6 +12,7 @@
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+            margin: none;
             display: flex;
             align-items: center;
             position: fixed;
