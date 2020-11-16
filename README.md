@@ -15,7 +15,7 @@
             margin: none;
             display: flex;
             align-items: center;
-            position: fixed;
+          
 
 
            
